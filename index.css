@@ -1,0 +1,17 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+.divos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  width: 100%;
+  
+  gap: 10px;
+ 
+}
+.btn{
+  padding: 5px 15px;
+}
